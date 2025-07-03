@@ -14,7 +14,8 @@
 					卒業研究の内容を発表．
 					http://wakate.jsiam.org/?p=193
 
-	2025年03月　　The 15th Taiwan-Japan Joint Workshop for Young Scholars in Applied Mathematics　Presentation Award受賞 
+	2025年03月　　The 15th Taiwan-Japan Joint Workshop for Young Scholars in Applied Mathematics
+	　　　　　 　　Presentation Award受賞 
 					卒業研究の内容を発表．
 					https://ncts.ntu.edu.tw/events_2_detail.php?nid=489
 
