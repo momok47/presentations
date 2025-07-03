@@ -28,8 +28,9 @@
 					エンジニア育成コミュニティに入会．多様な人と交流し視野を広げる．
 					https://www.cyberagent.co.jp/careers/special/students/tech_lounge/
 
-	2024年10月　　プログラミング学習応援企画paizaランクチャレンジ　ランク部門1位
-					武蔵野大学とpaiza株式会社の協賛によるプログラミング学習応援企画に参加．
+	2024年10月　　プログラミング学習応援企画paizaランクチャレンジ
+ 	　　　　　 　　ランク部門1位　トロフィー賞6位
+				        武蔵野大学とpaiza株式会社の協賛によるプログラミング学習応援企画に参加．
 					高ランクを競うランク部門にて，スキルチェック受講者上位8%に属するAランクを取得し学内1位となった．
 					https://www.musashino-u.ac.jp/basic/ai_submajor/index.html#1
 
