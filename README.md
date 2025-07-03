@@ -86,6 +86,6 @@
 	コーディングによる実装はもちろん，DataRobotなどのツールの活用経験もある．
 
 ## Contact
-	instagram @m_mmk0220
-	x(twitter) @mmkkk879
-	mail: s2146047@stu.musashino-u.ac.jp
+	instagram	@m_mmk0220
+	x(twitter) 	@mmkkk879
+	mail 		g2586003@stu.musashino-u.ac.jp
