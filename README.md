@@ -52,7 +52,7 @@
 					https://prtimes.jp/main/html/rd/p/000000033.000013058.html
 
 	2022年12月　　第6回和歌山県データ利活用コンペティション　参加
-					システムキューブ賞受賞
+	　　　　　 　　システムキューブ賞受賞
 					地方自治体と企業のマッチングサービス”Connect”を提案．
 					最新情報を用いて自治体や企業が相互に連携を組む相手を探し合い，手軽に親交を重ねることを可能とする．
 					https://www.pref.wakayama.lg.jp/prefg/020100/data/competition/2022_6_d/fil/d07.pdf
