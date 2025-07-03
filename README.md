@@ -1,2 +1,2 @@
 # public-speaking
-発表資料を保存
+発表資料を公開
