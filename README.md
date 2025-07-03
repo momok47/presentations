@@ -1,5 +1,4 @@
 # public-speaking
-自己紹介
 
 ## Carrer
 	2025年04月　　MIDORIチャレンジ2025　ファイナリスト
