@@ -1,5 +1,3 @@
-# public-speaking
-
 ## Carrer
 	2025年04月　　MIDORIチャレンジ2025　ファイナリスト
 					Earth hacks株式会社主催のコンペティション．
